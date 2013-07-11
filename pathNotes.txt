@@ -1,0 +1,17 @@
+Entry 1 13-07-08
+v. 0.0.1
+	I'm im a geinsu! 
+	after giving up on Copy-Items due to not seaching for -Recurse
+	I started using the zipping and upzip (tried and failed) , i managed 
+	find out about Copy-Item -Recurse. And Eureka was the word of the day, aruond 7 am-ish!
+
+	the backup system works now I'm abel to write in data.d the path to exstraxtion and exstracting
+		from set path!
+
+	[problem 01] - no way to repalce the files e.g [cat data.d > c:\etc\1] if dir 1 esxits in your 
+		backup dir the it will run an exsption the not exscute Copy-item!
+	[fixs prob 01] - all the file are stored under timestampet dir!
+	
+	[TODO] - write a scriped for unix- systems! -perorty high-
+	[TODO] - find a way to make an autorun for bouth OS's
+-------------------------------------------------------------------------------------------------------------
