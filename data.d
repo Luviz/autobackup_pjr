@@ -1,1 +1,1 @@
-C:\Users\Bardia\autobackup_pjr\1
+C:\Users\Bardia\autobackup_pjr\test\from
